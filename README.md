@@ -5,6 +5,12 @@ It shows how to send, schedule, retrieve, edit, and delete messages using a Slac
 
 ---
 
+## Purpose
+
+This project was built to explore real-world API integration using Slack's messaging API and to understand how backend services interact with third-party platforms.
+
+---
+
 ## Features
 
 - **Send a Message** – Post a message to a Slack channel.
@@ -20,5 +26,12 @@ It shows how to send, schedule, retrieve, edit, and delete messages using a Slac
 - Node.js installed on your system
 - A Slack workspace and Slack bot created
 - Slack bot token (keep it secret)
+
+---
+
+## Highlights
+
+- Implemented full message lifecycle using Slack API (create, update, delete, schedule)
+- Demonstrates practical backend integration with external APIs
 
 ---
